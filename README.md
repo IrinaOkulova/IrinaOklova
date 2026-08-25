@@ -1,4 +1,4 @@
-Header
+![Header](https://github.com/IrinaOkulova/IrinaOklova/blob/main/assets/плашка.jpg)
 
 Обо мне:
 
