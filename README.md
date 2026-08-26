@@ -5,8 +5,12 @@
 
 ### Языки и инструмкнты:
 ![Postman](https://img.shields.io/badge/Postman-000000?style=plastic&logo=postman)
-![Jira](https://img.shields.io/badge/Jira-1E90FF?style=plastic)
-![SQL](https://img.shields.io/badge/SQL-1E90FF?style=plastic)
+![Jira](https://img.shields.io/badge/Jira-1E90FF?style=plastic&logo=jira)
+![SQL](https://img.shields.io/badge/SQL-4682B4?style=plastic&logo=SQL)
+![Git](https://img.shields.io/badge/Git-F0FFFF?style=plastic&logo=git)
+![Phython](https://img.shields.io/badge/Python-98FB98?style=plastic&logo=python)
+![C++](https://img.shields.io/badge/C++-FF7F50?style=plastic&logo=C++)
+
 
 Тестовая документация:
 
