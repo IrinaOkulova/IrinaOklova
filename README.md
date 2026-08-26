@@ -6,10 +6,10 @@
 ### Языки и инструмкнты:
 ![Postman](https://img.shields.io/badge/Postman-18171c?style=plastic&logo=postman)
 ![Jira](https://img.shields.io/badge/Jira-18171c?style=plastic&logo=jira&logoColor=1E90FF)
-![SQL](https://img.shields.io/badge/SQL-18171c?style=plastic&logo=SQL)
+![SQL](https://img.shields.io/badge/SQL-18171c?style=plastic&logo=mySQL)
 ![Git](https://img.shields.io/badge/Git-18171c?style=plastic&logo=git)
 ![Phython](https://img.shields.io/badge/Python-18171c?style=plastic&logo=python&logoColor=2E8B57)
-![C++](https://img.shields.io/badge/C++-18171c?style=plastic&logo=C++)
+![C++](https://img.shields.io/badge/C++-18171c?style=plastic&logo=C%2b%2b&logoColor=4682B4)
 
 
 Тестовая документация:
