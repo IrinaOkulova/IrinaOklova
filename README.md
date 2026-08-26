@@ -11,7 +11,6 @@
 ![Phython](https://img.shields.io/badge/Python-18171c?style=plastic&logo=python&logoColor=2E8B57)
 ![C++](https://img.shields.io/badge/C++-18171c?style=plastic&logo=C%2b%2b&logoColor=4682B4)
 
-
 Тестовая документация:
 
 Социальные сети:
