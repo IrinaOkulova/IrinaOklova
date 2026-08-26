@@ -13,4 +13,6 @@
 
 Тестовая документация:
 
-Социальные сети:
+### Социальные сети:
+![Telegam](https://img.shields.io/badge/Telegram-18171c?style=plastic&logo=telegram&logoColor=4682B4)
+![Gmail](https://img.shields.io/badge/Gmail-18171c?style=plastic&logo=gmail&logoColor=FF0000)
