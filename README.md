@@ -11,9 +11,13 @@
 ![Phython](https://img.shields.io/badge/Python-18171c?style=plastic&logo=python&logoColor=2E8B57)
 ![C++](https://img.shields.io/badge/C++-18171c?style=plastic&logo=C%2b%2b&logoColor=4682B4)
 
-Тестовая документация:
+### Тестовая документация:
 
 ### Социальные сети:
 ![Telegam](https://img.shields.io/badge/Telegram-18171c?style=plastic&logo=telegram&logoColor=4682B4)
+
 @RedSunofHope
-[![Gmail](https://img.shields.io/badge/Gmail-18171c?style=plastic&logo=gmail&logoColor=FF0000)](irinaokulova013@gmail.com)
+
+![Gmail](https://img.shields.io/badge/Gmail-18171c?style=plastic&logo=gmail&logoColor=FF0000)
+
+irinaokulova013@gmail.com
