@@ -5,6 +5,7 @@
 
 ### Языки и инструмкнты:
 ![Postman](https://img.shields.io/badge/Postman-FF4500?style=plastic)
+![Jira](https://img.shields.io/badge/Jira-1E90FF?style=plastic)
 
 Тестовая документация:
 
