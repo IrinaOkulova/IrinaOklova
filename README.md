@@ -12,10 +12,10 @@
 ![C++](https://img.shields.io/badge/C++-18171c?style=plastic&logo=C%2b%2b&logoColor=4682B4)
 
 ### Тестовая документация:
-
+[Баг-репорты](https://github.com/IrinaOkulova/Bug-Reports)
 ### Социальные сети:
 ![Telegam](https://img.shields.io/badge/Telegram-18171c?style=plastic&logo=telegram&logoColor=4682B4)   
-@RedSunofHope
+[@RedSunofHope](https://t.me/RedSunofHope)
 
 ![Gmail](https://img.shields.io/badge/Gmail-18171c?style=plastic&logo=gmail&logoColor=FF0000)  
 irinaokulova013@gmail.com
